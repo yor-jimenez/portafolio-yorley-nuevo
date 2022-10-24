@@ -45,4 +45,23 @@
     transition: .5s;
 }
 
+#proyectos .fila .proyecto:hover img{
+    filter: grayscale(0);
+}
 
+#proyectos .fila .proyecto .info{
+    position: absolute;
+    left: 0;
+    background-color: rgba(0, 0, 0, .8);
+    color: blue;
+    width: 100%;
+    padding: 10px;
+    opacity: 0;
+    bottom: -40px;
+    transition: .5s;
+}
+
+#proyectos .fila .proyecto:hover .info{
+    opacity: 1;
+    bottom: 0;
+}

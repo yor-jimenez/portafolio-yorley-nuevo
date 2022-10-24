@@ -1,6 +1,6 @@
 .caja-skills{
     background: linear-gradient(#f6f6f6cc, rgba(33, 16, 16, 0.8));
-    background-image: url(/img/fondo-de-pantalla-skills.jpg.crdownload);
+    /* background-image: url('/img/imagen-fondo-portafolio.jpg'); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
