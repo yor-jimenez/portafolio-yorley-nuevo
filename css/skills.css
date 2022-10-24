@@ -1,5 +1,5 @@
 .caja-skills{
-    background: linear-gradient(#f6f6f6cc, rgba(33, 16, 16, 0.8));
+    background: linear-gradient(rgb(238, 157, 6), rgba(16, 16, 16, 0.8));
     /* background-image: url('/img/imagen-fondo-portafolio.jpg'); */
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -12,6 +12,12 @@
 .caja-skills .skill{
     max-width: 600px;
     margin: 20px auto;
+}
+
+.caja-skills{
+    list-style: none;
+    display: flex;
+    align-items: center;
 }
 
 .caja-skills .skill .info{
