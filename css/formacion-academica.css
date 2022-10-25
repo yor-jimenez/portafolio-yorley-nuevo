@@ -1,0 +1,41 @@
+#formacion-academica{
+    padding: 80px 15px;
+    text-align: center;
+    margin-top: -5%;
+    margin-bottom: -18%;
+    /* background-color: rgb(241, 232, 232); */
+}
+
+#formacion-academica .titulo{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: .5s;   
+}
+
+#formacion-academica .fila{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 5px auto;
+}
+
+#formacion-academica .fila .carrera{
+    max-width: 400px;
+    /* background-color: #fff; */
+    padding: 60px;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: .5s;
+}
+
+/* #formacion-academica .fila .carrera:hover{
+    box-shadow: 5px 5px 10px #565656 -5px -5px 10px #8a8a8a;
+} */
+
+.logo{
+    width: 100%;
+}
+    
