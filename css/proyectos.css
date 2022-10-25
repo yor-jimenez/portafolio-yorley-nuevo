@@ -17,10 +17,11 @@
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
-    color: red;
+    color: black;
     text-decoration: underline;
     text-decoration-line: yellow;
     text-decoration-thickness: 5px;
+    margin-top: -60px;
 }
 
 #proyectos .fila{

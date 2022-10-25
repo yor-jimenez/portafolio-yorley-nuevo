@@ -22,7 +22,7 @@ html{
 }
 
 #inicio .contenido header{
-    background: linear-gradient(#66f6fc,#085051);
+    background: #355764;
     position: fixed;
     width: 100%;
     z-index: 100;
@@ -40,7 +40,7 @@ html{
 
 #inicio .contenido header .contenido-header h1{
     text-align: center;
-    color: blue;
+    color: white;
 }
 
 #inicio .contenido header .contenido-header nav ul{
@@ -58,12 +58,12 @@ html{
 }
 
 #inicio .contenido header .contenido-header nav ul a:hover{
-    color: #ff00ff ;
+    color: orange ;
 }
 
 .redes{
-    text-decoration: none;
-    color:blue;
+    text-decoration-style: solid;
+    color : #f5781a;
     display: inline-block;
     margin: 5px;
     font-size: 20px;
@@ -86,7 +86,8 @@ html{
     /* margin-bottom: 150px; */
     text-transform: uppercase;
     letter-spacing: 5px;
-    margin-top: -60px;
+    margin-top: 50px;
+    margin-bottom: 10px;
 }
 
 #inicio .contenido .presentacion .bienvenida h2{
@@ -113,9 +114,9 @@ html{
     font-weight: bold;
     text-transform: uppercase;
     transition: .5s;
-    margin-bottom: 160px;
+    margin-bottom: 15px;
 }
 
 #inicio .contenido .presentacion a:hover{
-    background-color: #ff00ff;
+    background-color: #f5781a;
 }

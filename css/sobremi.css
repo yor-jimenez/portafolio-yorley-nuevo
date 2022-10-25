@@ -26,16 +26,16 @@
     color: black;
     text-decoration: underline;
     text-decoration-color: black;
-    /* text-decoration-thickness: 3px; */
-    margin-top: 75px;
+    text-decoration-thickness: 3px;
+    margin-top: 50px;
 }
 
 #sobremi .sobremi h2{
-    font-size: 34px;
+    font-size: 25px;
     font-weight: bold;
     margin: 20px 0;
     letter-spacing: 2px;
-    color: #ff00ff;
+    color: #000000;
 }
 
 #sobremi .sobremi h3{
