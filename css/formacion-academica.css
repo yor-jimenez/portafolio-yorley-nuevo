@@ -1,18 +1,19 @@
 #formacion-academica{
-    padding: 80px 15px;
+    padding: 260px 15px;
     text-align: center;
-    margin-top: -5%;
-    margin-bottom: -18%;
+    margin-top: -25%;
+    margin-bottom: -33%;
     /* background-color: rgb(241, 232, 232); */
 }
 
 #formacion-academica .titulo{
     font-size: 20px;
     text-transform: uppercase;
-    color: black;
+    color: #355764;
     text-decoration: underline;
-    text-decoration-color: black;
-    text-decoration-thickness: .5s;   
+    text-decoration-color: orange;
+    text-decoration-thickness: .5s;
+    font-weight: bold;   
 }
 
 #formacion-academica .fila{

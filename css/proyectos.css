@@ -18,11 +18,12 @@
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
-    color: black;
+    color: #355764;
     text-decoration: underline;
-    text-decoration-line: yellow;
-    text-decoration-thickness: 5px;
+    text-decoration-color: orange;
+    text-decoration-thickness: .5s;
     margin-top: -60px;
+    font-weight: bold;
 }
 
 #proyectos .fila{
@@ -55,7 +56,7 @@
     position: absolute;
     left: 0;
     background-color: rgba(0, 0, 0, .8);
-    color: blue;
+    color: #fff;
     width: 100%;
     padding: 10px;
     opacity: 0;
