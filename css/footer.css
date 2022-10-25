@@ -1,8 +1,9 @@
 .pie-de-pagina{
-    background-color: orange;
-    color: #fff;
+    background: linear-gradient(#66f6fc,#085051);
+    color: black;
     text-align: center;
     padding: 20px 0;
+    font-weight: bold; 
 }
 
 .pie-de-pagina a{

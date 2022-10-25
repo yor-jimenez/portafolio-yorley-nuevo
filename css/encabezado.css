@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&family=Open+Sans:wght@300;400;700&display=swap');
 
 *{
-    margin: 0;
+    margin: auto;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat';
+
 }
 
 html{
@@ -12,7 +13,7 @@ html{
 }
 
 #inicio{
-    background: (rgba(167, 45, 45, 0.7), rgba(0, 0, 0, .7));
+    background: (rgba(#66f6fc), rgba(#085051));
     /* background-image: url('img/imagen-fondo-portafolio.jpg'); */
     background-size: cover;
     /* opacity: 0.5; */
@@ -21,7 +22,7 @@ html{
 }
 
 #inicio .contenido header{
-    background-color: rgba(125, 104, 104, 0.7);
+    background: linear-gradient(#66f6fc,#085051);
     position: fixed;
     width: 100%;
     z-index: 100;
@@ -112,6 +113,7 @@ html{
     font-weight: bold;
     text-transform: uppercase;
     transition: .5s;
+    margin-bottom: 160px;
 }
 
 #inicio .contenido .presentacion a:hover{
