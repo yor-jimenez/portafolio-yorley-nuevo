@@ -24,17 +24,19 @@
 }
 
 #formacion-academica .fila .carrera{
-    max-width: 400px;
+    max-width: 600px;
     /* background-color: #fff; */
     padding: 60px;
     margin: 0 5px;
     border-radius: 5px;
-    transition: .5s;
+    transition: .5s;    
 }
 
 /* #formacion-academica .fila .carrera:hover{
     box-shadow: 5px 5px 10px #565656 -5px -5px 10px #8a8a8a;
 } */
+
+
 
 .logo{
     width: 100%;
