@@ -5,14 +5,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 80px 0;
+    /* padding: 80px 0; */
     text-align: center;
     list-style: circle;
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-top: -20px;
-
+    margin-top: -35px;
+    margin-bottom: 30px;
 }
 
 .caja-skills .skill{
@@ -29,5 +29,14 @@
     text-decoration-color: orange;
     text-decoration-thickness: .5s;
     font-weight: bold;
-    margin-top: 80px;
 }
+
+/* 
+@media screen and (min-width: 768px){
+    #formacion-academica .fila .carrera {
+        margin: -45px 5px;
+    }
+    .caja-skills{
+        padding: 20px 0;
+    }
+} */

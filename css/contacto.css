@@ -1,5 +1,5 @@
 #contacto{
-    padding: 100px 15px;
+    padding: 20px 15px;
 }
 
 #contacto .titulo{
@@ -11,7 +11,7 @@
     text-decoration: underline;
     text-decoration-color: orange;
     text-decoration-thickness: .5s;
-    margin-top: -160px;
+    /* margin-top: -160px; */
     font-weight: bold;
 }
 
@@ -64,15 +64,13 @@
 
 /* 
 @media screen and (min-width: 768px){
-    .institucional__contacto-email{
-        display: inline-block;
+    #contacto {
+        margin-bottom: -50px;
     }
+}    */
 
-    .institucional__video{
-        width: 100%;
-    }
-}   
 
+/* 
 @media screen and (min-width: 1024px) {
     .institucional__contenido {
         width: 100%;
