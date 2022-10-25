@@ -122,3 +122,20 @@ html{
 #inicio .contenido .presentacion a:hover{
     background-color: #f5781a;
 }
+
+@media screen and (min-width: 768px){
+    #inicio .contenido header{
+        font-size: 10px;
+    }
+    #inicio .contenido header .contenido-header h1{
+        margin-left: -5px;
+    } 
+    #inicio .contenido .presentacion .bienvenida{
+        margin-top: 75px;
+    }
+    #inicio .contenido .presentacion .descripcion{
+        font-size: 15px;
+    }
+}
+
+
