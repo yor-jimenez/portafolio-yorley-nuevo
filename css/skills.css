@@ -29,41 +29,6 @@
     text-decoration: underline;
     text-decoration-color: orange;
     text-decoration-thickness: .5s;
-    /* margin-top: -50px; */
     font-weight: bold;
     margin-top: 80px;
 }
-/* 
-.caja-skills{
-    list-style: circle;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin-top: -20px;
-} */
-
-.caja-skills .skill .info{
-    display: flex;
-    justify-content: space-between;
-}
-
-.caja-skills .skill .lista{
-    display: flex;
-    margin-right: 20px;
-    margin-left: 60px;
-    height: 5px;
-    width: 90px;
-    color: black;
-    justify-content: center;
-}
-
-/* .caja-skills .skill .separador{
-    background-color: black;
-    width: 50%;
-    height: 2px;
-    margin: 15 px 0;
-} */
-
-
-
-
