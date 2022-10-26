@@ -66,6 +66,13 @@
     opacity: 1;
     bottom: 0;
 }
+
+@media screen and (max-width: 360px){
+    #proyectos .titulo{
+        font-size: 15px;
+    }
+}
+
 @media only screen and (max-width: 768px) and (min-width: 360px){
     #proyectos{
         margin: 0;

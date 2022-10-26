@@ -77,15 +77,28 @@
 
 @media screen and (max-width: 360px){
     #sobremi{
-        margin-top: -200px;
+        margin-top: -130px;
     }
     #sobremi .caja-foto{
         margin-top: 50px;
     }
     #sobremi .caja-foto img{
-        margin-top: 78%;
+        margin-top: 130%;
     }
-} 
+    #sobremi .sobremi .titulo-seccion{
+        font-size: 15px;
+    }
+    #sobremi .sobremi h2 {
+        font-size: 12px;
+    }
+    #sobremi .sobremi h3{
+        font-size: 12px;
+    }
+    #sobremi .sobremi a{
+        font-size: 63%;
+        margin: 10px;
+    }
+}
 
 @media only screen and (max-width: 768px) and (min-width: 361px){
     #sobremi{
