@@ -124,8 +124,18 @@ html{
     background-color: #f5781a;
 }
 
-@media screen and (max-width: 768px){
-   
+@media only screen and (max-width: 768px) and (min-width: 360px){
+    #inicio .contenido .presentacion .bienvenida {
+        margin: 0;
+    }
+
+    #inicio .contenido .presentacion{
+        height: 125vh;
+    }
+
+}
+/* 
+@media screen and (min-width: 768px){
     #inicio .contenido header{
         font-size: 10px;
     }
@@ -143,7 +153,7 @@ html{
     }
 }
 
-@media screen and (max-width: 360px){
+@media screen and (min-width: 360px){
     #inicio .contenido header .contenido-header{
         flex-direction: column;
         justify-content: center;
@@ -160,4 +170,4 @@ html{
         font-size: 9px
     }
     }
-
+ */

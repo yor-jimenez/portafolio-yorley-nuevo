@@ -75,9 +75,33 @@
     background-color: orange;
 }
 
+
+@media only screen and (max-width: 768px) and (min-width: 360px){
+    #sobremi{
+        height: 150vh;
+    }
+    #sobremi .caja-foto{
+        margin: 0;
+    }
+    #sobremi .caja-foto img{
+        margin-top: 78%;
+    }
+}
+
+/* 
+@media screen and (min-width: 768px){
+    #sobremi {
+        margin-top: -27%;
+}
+    #sobremi .caja-foto{
+        margin-bottom: 5px;
+    }
+}
+
+
 @media screen and (min-width: 360px){
     #sobremi .sobremi .titulo-seccion{
-        margin-top:10px
+        margin-top:50px
     }
     #sobremi .sobremi .titulo-seccion{
         font-size: 15px;
@@ -96,7 +120,7 @@
         margin-top: 15px;
         margin-bottom: 30px;
     }
-}
+} */
 
 
 
