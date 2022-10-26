@@ -113,6 +113,30 @@
     }
 }
 
+@media screen and (max-width: 365px){
+    #sobremi{
+        margin-top: -30px;
+    }
+    #sobremi .caja-foto{
+        margin-top: 50px;
+    }
+    #sobremi .caja-foto img{
+        margin: 0;
+    }
+    #sobremi .sobremi .titulo-seccion{
+        font-size: 15px;
+    }
+    #sobremi .sobremi h2 {
+        font-size: 12px;
+    }
+    #sobremi .sobremi h3{
+        font-size: 12px;
+    }
+    #sobremi .sobremi a{
+        font-size: 63%;
+        margin: 10px;
+    }
+}
 
 
 
