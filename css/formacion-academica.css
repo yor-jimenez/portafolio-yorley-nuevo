@@ -53,6 +53,10 @@
 }
 
 @media only screen and (max-width: 768px) and (min-width: 365px){
+    #formacion-academica {
+        margin-top: -20px;
+    }
+    
     #formacion-academica .fila .carrera{
         padding: 15px 15px 15px 15px;
         margin-left: 35px;

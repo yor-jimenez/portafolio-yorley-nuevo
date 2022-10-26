@@ -129,14 +129,12 @@ html{
         margin: 0;
     }
     #inicio .contenido .presentacion{
-        margin-top: 7%;
+        margin-top: 4%;
     }
-    #inicio .contenido header .contenido-header h1{
-        margin-left: 0px;
-        font-size: 84%;
-    }
+    #inicio .contenido header .contenido-header h1 {
+        font-size: 90%;
 }
-
+}
 
 @media screen and (max-width: 364px){
     #inicio .contenido header .contenido-header h1{
