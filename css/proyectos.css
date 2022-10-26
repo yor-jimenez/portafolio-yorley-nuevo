@@ -67,8 +67,18 @@
     bottom: 0;
 }
 
-/* @media screen and (min-width: 768px){
-    #proyectos > h3{
-        padding-top: 15%;
+@media screen and (max-width: 768px){
+    #proyectos{
+        margin-top: 10%;
 }
-} */
+}
+
+@media screen and (max-width: 360px){
+    #proyectos{
+        padding-top: 20px;
+    }
+    #proyectos .titulo{
+        font-size: 15px;
+    }
+}
+

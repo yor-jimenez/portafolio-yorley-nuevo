@@ -30,3 +30,13 @@
     text-decoration-thickness: .5s;
     font-weight: bold;
 }
+
+
+@media screen and (min-width: 360px){
+    .caja-skills{
+        margin-top: 20px;
+    }
+    .caja-skills h3{
+        font-size: 15px;
+    }
+}

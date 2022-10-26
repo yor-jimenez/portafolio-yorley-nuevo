@@ -75,7 +75,28 @@
     background-color: orange;
 }
 
-
+@media screen and (min-width: 360px){
+    #sobremi .sobremi .titulo-seccion{
+        margin-top:10px
+    }
+    #sobremi .sobremi .titulo-seccion{
+        font-size: 15px;
+    }
+    #sobremi .sobremi h2{
+        font-size: 12px;
+    }
+    #sobremi .sobremi h3{
+        font-size: 12px;
+    }
+    #sobremi .caja-foto{
+        margin-top: 34%;
+    }
+    #sobremi .sobremi a {
+        font-size: 5px;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+}
 
 
 
