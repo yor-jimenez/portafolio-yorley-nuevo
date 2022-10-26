@@ -37,17 +37,18 @@
     margin-top: 10px;
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 364px){
     #formacion-academica{
         padding-top: 20px;
     }
 
     #formacion-academica .titulo{
         font-size: 15px;
-    }
-    #formacion-academica .titulo{
         margin: 0;
         margin-bottom: 10px;
+    }
+    #formacion-academica .fila .carrera{
+        padding: 14px;
     }
         
 }

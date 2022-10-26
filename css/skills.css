@@ -31,9 +31,9 @@
     font-weight: bold;
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 364px){
     .caja-skills {
-        padding-top: 20px;
+        padding-top: 48px;
     }
 
     .caja-skills h3{
@@ -41,7 +41,7 @@
     }
 }
 
-@media only screen and (max-width: 768px) and (min-width: 360px){
+@media only screen and (max-width: 768px) and (min-width: 365px){
     .caja-skills{
         margin: 0;
     }

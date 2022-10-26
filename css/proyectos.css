@@ -70,6 +70,7 @@
 @media screen and (max-width: 364px){
     #proyectos .titulo{
         font-size: 15px;
+        margin-top: -28px;
     }
 }
 
