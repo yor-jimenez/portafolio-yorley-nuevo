@@ -124,7 +124,7 @@ html{
     background-color: #f5781a;
 }
 
-@media only screen and (max-width: 768px) and (min-width: 361px){
+@media only screen and (max-width: 768px) and (min-width: 365px){
     #inicio .contenido .presentacion .bienvenida {
         margin: 0;
     }
@@ -138,7 +138,7 @@ html{
 }
 
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 364px){
     #inicio .contenido header .contenido-header h1{
         margin-left: 5px;
     }

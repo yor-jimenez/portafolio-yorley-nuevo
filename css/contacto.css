@@ -59,7 +59,7 @@
     color: #fff;
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 364px){
     #contacto .titulo{
         font-size: 15px;
         margin-top: -20px;
