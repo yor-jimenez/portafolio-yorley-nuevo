@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat';
-
+    font-size: 13px;
 }
 
 html{
@@ -42,6 +42,7 @@ html{
     text-align: center;
     color: white;
     margin-left: -50px;
+    font-size: 20px;
 }
 
 #inicio .contenido header .contenido-header nav ul{
@@ -139,8 +140,14 @@ html{
 }
 /* 
 @media screen and (min-width: 360px){
-    #inicio .contenido .presentacion{
-        font-size: 10px;
+    #inicio .contenido header .contenido-header{
+        flex-direction: column;
+        justify-content: center;
     }
+    #inicio .contenido header .contenido-header nav ul{
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
 } */
 
