@@ -46,6 +46,12 @@
         margin-bottom: 28px;
     }
 }
+@media screen and (max-width: 360px){
+    #formacion-academica .fila{
+        flex-direction: column;
+}
+}
+
 
 /* 
 @media screen and (min-width: 360px){

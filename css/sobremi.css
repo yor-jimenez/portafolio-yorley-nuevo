@@ -89,13 +89,14 @@
 
 @media only screen and (max-width: 768px) and (min-width: 361px){
     #sobremi{
-        margin-top: -200px;
+        margin-top: -43px;
     }
     #sobremi .caja-foto{
-        margin-top: 50px;
+        margin-top: 25 px;
     }
-    #sobremi .caja-foto img{
-        margin-top: 78%;
+
+    #sobremi .sobremi .titulo-seccion{
+        margin-top: 0;
     }
 }
 
