@@ -128,10 +128,17 @@ html{
     #inicio .contenido .presentacion .bienvenida {
         margin: 0;
     }
-
     #inicio .contenido .presentacion{
         height: 125vh;
     }
+    #inicio .contenido header .contenido-header h1{
+        margin-left: 0px;
+        font-size: 84%;
+    }
+    #inicio .contenido header .contenido-header nav ul{
+        
+    }
+
 
 }
 /* 
