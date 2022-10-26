@@ -52,7 +52,6 @@
         
 }
 
-
 @media only screen and (max-width: 768px) and (min-width: 360px){
     #formacion-academica .fila .carrera{
         padding: 15px 15px 15px 15px;
@@ -67,19 +66,3 @@
         flex-direction: column;
 }
 }
-
-
-/* 
-@media screen and (min-width: 360px){
-    #formacion-academica .titulo{
-        padding-bottom: 15px;
-        font-size: 15px;
-    }
-    #formacion-academica .fila {
-        flex-direction: column;
-        margin-top: -40px;
-    }
-    #formacion-academica .fila .carrera{
-        margin-top: 30px;
-        padding: 0%;}
-} */
