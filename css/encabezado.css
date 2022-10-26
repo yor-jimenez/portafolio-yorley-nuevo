@@ -124,22 +124,17 @@ html{
     background-color: #f5781a;
 }
 
-@media only screen and (max-width: 768px) and (min-width: 360px){
+@media only screen and (max-width: 768px) and (min-width: 361px){
     #inicio .contenido .presentacion .bienvenida {
         margin: 0;
     }
     #inicio .contenido .presentacion{
-        height: 125vh;
+        margin-top: 7%;
     }
     #inicio .contenido header .contenido-header h1{
         margin-left: 0px;
         font-size: 84%;
     }
-    #inicio .contenido header .contenido-header nav ul{
-        
-    }
-
-
 }
 /* 
 @media screen and (min-width: 768px){
